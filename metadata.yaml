@@ -1,10 +1,16 @@
 _repo: Health-Service-Support-in-a-Nuclear-Biological-and-Chemical-Environment-Tactics-Techniques-an__49037
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49037-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. Department of the Army
     gutenberg_agent_id: '45104'
     url: http://www.gutenberg.org/2009/agents/45104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49037#Health-Service-Support-in-a-Nuclear-Biological-and-Chemical-Environment-Tactics-Techniques-an_
 gutenberg_issued: '2015-05-24'
 gutenberg_type: Text
 identifiers:
